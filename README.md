@@ -1,5 +1,7 @@
 # Real-CUGAN - Iceshell
 
+THIS REPOSITORY WAS MOVED TO https://github.com/eli0009/iceshell
+
 Real-CUGAN - Iceshell is a GUI program that upscales and denoises anime-style images.
 Iceshell is available on Linux and Windows.
 
